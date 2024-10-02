@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Suhaib Welcome Message"
-	src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&lines=%F0%9F%91%8B+Hi+There!+I'm+Suhaib+."> <hr />
+	src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=300&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+There!+I'm+Suhaib"> <hr />
 </p>
 
 <p align="center">
@@ -11,18 +11,17 @@
 
 
 - 🔭 I'm currently working as an Flutter Developer
-  
-  
+
 - 📚 I’m a Computer Science Graduate
 
 - 💻 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
-  
+
 <!-- - 🤔 I’m looking forward to being part of an innovation that people would love to use instead of have to use -->
-  
+
 - 💬 Ask me about my projects
 
 - ⚡ Fun fact always learning
-  
+
 - 📫 How to reach me: Email - itsradaideh@gmail.com | Linkedin - @itsradaideh
 
 
@@ -49,8 +48,8 @@
       </a>
     </td>
     <td style="border: none; width: 50%;">
-      <a href="https://github.com/itsradaideh/Toku_App" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsradaideh&repo=Toku_App&theme=dracula" style="width: 100%;">
+      <a href="https://github.com/itsradaideh/Toku-App" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsradaideh&repo=Toku-App&theme=dracula" style="width: 100%;">
       </a>
     </td>
   </tr>
@@ -71,9 +70,10 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 5px;"/>
   <!-- firebase -->
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" style="margin-right: 5px;"/>
+  <!-- android -->
+  <img src="https://img.shields.io/badge/android-%FFCA28?style=for-the-badge&logo=android&logoColor=white" alt="iOS" style="margin-right: 5px;"/>
+  <!-- iOS -->
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" style="margin-right: 5px;"/>
   <!-- Visual Studio Code -->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="margin-right: 5px;"/>
-  <!-- iOS -->
-  <!-- <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" style="margin-right: 5px;"/> -->
- 
 </div>
